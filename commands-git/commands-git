@@ -15,3 +15,6 @@ git commit -m 'Shell Project Report'
 _Création de la branche main pour la push ensuite :
 git branch -M main
 git push -u origin main
+
+_Déplacer son dossier de GitHub a son pc :
+git pull origin
