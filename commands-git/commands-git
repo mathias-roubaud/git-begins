@@ -1,0 +1,17 @@
+_ Cloner le repository shell sur son pc :
+git clone https://github.com/exemple.lenomduprojet/shell
+
+_ Ajouter le travail du projet réaliser à l'intérieur du
+repository shell :
+git init shell
+
+_ Pusher le nouveau contenu de votre repository :
+_Ajout du fichier shell :
+git add lenomduprojet.docx
+
+_Création d'une version :
+git commit -m 'Shell Project Report'
+
+_Création de la branche main pour la push ensuite :
+git branch -M main
+git push -u origin main
